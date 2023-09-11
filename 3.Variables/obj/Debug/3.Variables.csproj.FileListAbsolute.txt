@@ -1,0 +1,7 @@
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\3.Variables\3.Variables\bin\Debug\3.Variables.exe.config
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\3.Variables\3.Variables\bin\Debug\3.Variables.exe
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\3.Variables\3.Variables\bin\Debug\3.Variables.pdb
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\3.Variables\3.Variables\obj\Debug\3.Variables.csproj.AssemblyReference.cache
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\3.Variables\3.Variables\obj\Debug\3.Variables.csproj.CoreCompileInputs.cache
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\3.Variables\3.Variables\obj\Debug\3.Variables.exe
+C:\Users\fundedtraderSA\Documents\Visual Studio 2022\3.Variables\3.Variables\obj\Debug\3.Variables.pdb
